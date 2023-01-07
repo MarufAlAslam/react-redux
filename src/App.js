@@ -1,9 +1,10 @@
 import React from 'react';
+import CounterPage from './pages/CounterPage';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <CounterPage />
     </div>
   );
 }
